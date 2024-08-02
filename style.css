@@ -1,0 +1,130 @@
+.container2{
+    background-color: white;
+}
+.header{
+    color: white;
+    padding: auto;
+    position: fixed;
+    background: #6F6AF7;
+    height: 70px;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly;
+    margin-bottom: 50px 10px;
+}
+
+.middle{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    margin: 15px;
+    
+}
+.boxx2{
+
+    margin-left: 30px;
+    margin-right: 50px;
+    border-radius: 15px;
+    height: auto;
+    width: 100vh;
+    background: #E5D8FF;
+    text-align: center;
+}
+
+
+.box{
+    height: 70px;
+    width: 150px;
+    border-radius: 15px;
+    align-content:center;
+    /* text-align: center; */
+    color: white;
+    
+}
+#box1{
+    background: #929DFF;
+
+}
+#box2{
+    background: #734CF2;
+}
+#box3{
+    background: #D288FF;
+
+}
+#box4{
+    background: black;
+}
+.boxiee{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+}
+
+.bottom{
+    background: #483EFF;
+    display: flex;
+    height: 400px;
+    width: 100%;
+}
+
+.bot{
+    margin: 15px;
+    /* background: #ff3e3e; */
+    border-style: solid;
+    border-color: white;
+    border-radius: 15px;
+    height: 65px;
+    width: 100%;
+    align-content:center ;
+    /* flex-direction: column; */
+    
+    
+}
+#bot1{
+    background: #BCE0F6;
+}
+.left{
+    align-items: center;
+    text-align: center;
+    font-style: normal;
+    color: white;
+    margin: 30px;
+    /* color: white; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.right{
+    width: 100%;
+    background-color: white;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.cornerbutton{
+       /* background: black; */
+       color: white;
+       display: flex;
+       justify-content: flex-end;
+}
+
+.logo{
+    height: 10px;
+    width: 100px;
+    position: fixed;
+    right:00px;
+    
+}
+
+.logo2{
+    display: flex;
+    align-items: end;
+    right:800px;
+    
+
+    
+    
+}
